@@ -1,4 +1,4 @@
-# MASK: Multi-Agent Collaboration for Optimizing Adversarial Attacks on Multi-Agent Systems
+# MASK
 
 This repository contains the code for the paper **"MASK: Multi-Agent Collaboration for Optimizing Adversarial Attacks on Multi-Agent Systems"**.
 
