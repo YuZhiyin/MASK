@@ -21,7 +21,7 @@ Datasets can be stored in the `/data` folder.
 Alternatively, you can specify the path to the model output file when running the script in `main.py`:  
 
 ```bash
---input_file", type=str, default="run_1/output.jsonl"
+"--input_file", type=str, default="run_1/output.jsonl"
 ```
 
 ## Running
