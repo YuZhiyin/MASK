@@ -12,7 +12,7 @@ import torch
 from pathlib import Path
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-from commons import query_model, parse_question_answer, query_hf_model, load_model_tokenizer
+from utils import query_model, parse_question_answer, query_hf_model, load_model_tokenizer
 from prompt import agent_prompt, adversary_prompt,optim
 from datetime import datetime
 from pathlib import Path
